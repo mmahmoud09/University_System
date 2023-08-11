@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1691579685 source:c:\users\electronica care\university app\project\src\university.cpp
+
+1691573280 c:\users\electronica care\university app\project\include\university.h
+
+1691579577 source:c:\users\electronica care\university app\project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
+1691649106 source:c:\users\mahmo\onedrive\desktop\project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
